@@ -13,4 +13,4 @@ export default createConnection({
     ],
     synchronize: true,
     logging: false
-}); 
+});  
